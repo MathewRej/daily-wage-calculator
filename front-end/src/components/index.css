@@ -1,0 +1,273 @@
+.main {
+   
+}
+.login{
+    height:auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color:rgb(82, 66, 141);
+    border-radius: 20px;
+    width: 500px;
+}
+.textfield{
+    /* text-align: left; */
+}
+.signin{
+    height: 470px;
+}
+.login-field{
+    height: 25px;
+    width: 270px;
+    padding: 5px 10px;
+    margin: 10px 0px;
+    border-radius: 20px;
+}
+.login-button{
+    height: 30px;
+    width: 70px;
+    border-radius: 20px;
+    margin: 20px;
+    border: 0px;
+    cursor: pointer;
+
+}
+.login1{
+    height: 250px;
+}
+
+.login h2{
+    text-align: center;
+
+}
+.loginb{
+    text-align: center;
+}
+.input-field{
+    margin: 20px;
+    
+}
+.sigup-div{
+    text-align: center;
+    height: 530px;
+    width: 500px;
+    background-color: rgb(82, 66, 141);
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.signup-div1{
+    text-align: center;
+    margin: 30px;
+    height: 280px;
+
+}
+.signup-field{
+    height: 35px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 10px 0px;
+    border: 0px;
+    background-color: rgb(243, 243, 243);
+    padding: 0px 10px;
+}
+.main-div{
+    height: 100%;
+    width: 100%;
+}
+.signup-div2{
+    text-align: center;
+}
+.label{
+    padding-left: 90px;
+}
+.mob-field{
+    text-align: center;
+    margin: 20px;
+    
+}
+.signup-link{
+    padding: 10px;
+}
+.profile-headerdiv{
+    display: flex;
+    text-align: right;
+    flex-direction: row-reverse;
+    margin: 20px 40px;
+   
+}
+.profile-div{
+    height: 100%;
+    width: 100%;
+}
+.profile-sidediv{
+    width: 20%;
+    height: 100vh;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-bottom: 2px solid white;
+}
+.profile-sidebarcontent{
+    display: flex;
+    border: 2px solid rgb(255, 255, 255);
+    
+    padding: 25px;
+}
+.profile-headerdiv{
+    text-align: right;
+}
+.profile-sidebarcontent:hover{
+    background-color: blue;
+}
+.profile-sidediv h2{
+    text-align: center;
+}
+.profile-sidediv h4{
+    text-align: center;
+    margin: 0px 10px;
+
+}
+.profile-detailsdiv{
+    border: 2px solid white;
+    width: 80%;
+    height: 100vh;
+}
+.profile-maindiv{
+    display:flex ;
+}
+.profile-headerdiv h5{
+    text-align: right;
+    margin: 0px;
+
+}
+.profile-headerdiv{
+    margin-right: 105px;
+}
+
+.employtable th,tr,td{
+    border: 1px solid white;
+    height: 100px;
+    width: 250px;
+    text-align: center;
+
+}
+.employ detailsfield{
+
+}
+.add-employbutton{
+    text-align: center;
+    height: 30px;
+    width: 40px;
+    border-radius: 20px;
+}
+.add-employbutton h2{
+   
+}
+.employ-detailstable{
+    text-align: center;
+    padding: 10px 20px;
+}
+.add-employdiv{
+    text-align: right;
+    
+}
+.editbutton{
+    margin: 10px;
+    border-radius: 20px;
+}
+.add-button{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+}
+.add-employname{
+    text-align: center;
+}
+.add-empbutton{
+    text-align: center;
+    margin: 15px;
+}
+.employtable{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.place-field{
+    height: 35px;
+    width: 300px;
+    border-radius: 20px;
+    margin: 15px 20px;
+    border: 0px;
+    background-color: rgb(243, 243, 243);
+    padding: 0px 10px;
+}
+
+.work-detailstable{
+    text-align: right;
+    margin-left: 20px;
+}
+.add-placebutton{
+    text-align: center;
+    height: 30px;
+    width: 40px;
+    border-radius: 20px;
+}.work-detailsdiv{
+    height: auto;
+    padding: 10px 20px;
+}
+
+.add-placediv {
+    padding: 0px 30px;
+}
+
+.add-workde{
+    margin: 10px;
+}
+.workmain{
+    text-align: center;
+}
+.react-calendar {
+    width: 350px;
+    max-width: 100%;
+    background: white;
+    border: 1px solid #a0a096;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+  }
+  .dailyemploys{
+      height: 30px;
+      width: 250px;
+      margin: 10px;
+    }
+
+  .select-employs{
+      display: flex;
+  }
+  .add-amountbutton{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+  }
+  .send-mail{
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+  }
+  .forgotpass-div{
+      text-align: center;
+  }
+  .forgotpassword{
+      margin: 10px;
+      font-size: 17px;
+      font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+      text-decoration: none;
+  }
+.addemp-heading h3{
+    color: black;
+}
+.add-work h3{
+    color: black;
+}
